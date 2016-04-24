@@ -11,3 +11,7 @@ class Ball{
 
 
 }
+class Timer{
+
+
+}
